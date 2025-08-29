@@ -39,8 +39,8 @@ Feel free to check out my repositories and reach out if you’d like to collabor
 ## 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suyogdhungana&theme=transparent&hide_border=true&include_all_commits=false&count_private=true&show_icons=true&hide_title=true&hide_rank=true&card_width=200" height="150"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=suyogdhungana&theme=transparent&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suyogdhungana&theme=transparent&hide_border=true&include_all_commits=false&count_private=true&layout=compact&card_width=200" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=suyogdhungana&theme=transparent&hide_border=true&include_all_commits=false&count_private=true&show_icons=true&hide_title=true&hide_rank=true&card_width=200" height="120"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=suyogdhungana&theme=transparent&hide_border=true" height="120"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suyogdhungana&theme=transparent&hide_border=true&include_all_commits=false&count_private=true&layout=compact&card_width=200" height="120"/>
 </p>
 
